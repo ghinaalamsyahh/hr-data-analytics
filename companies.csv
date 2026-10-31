@@ -1,0 +1,61 @@
+company_id,company_name,industry,city,founded_year,company_size,remote_policy
+1,Company_001,Technology,Assiut,2019,Medium,Hybrid
+2,Company_002,Telecommunications,Aswan,1982,Medium,Hybrid
+3,Company_003,Education,Cairo,1998,Small,Hybrid
+4,Company_004,Manufacturing,Giza,2007,Medium,On-site
+5,Company_005,Manufacturing,Giza,1998,Small,Hybrid
+6,Company_006,Telecommunications,Cairo,1995,Medium,Hybrid
+7,Company_007,Technology,Cairo,1982,Small,On-site
+8,Company_008,Education,Giza,1992,Small,On-site
+9,Company_009,Banking & Finance,Cairo,1986,Small,Hybrid
+10,Company_010,Technology,Alexandria,1989,Medium,On-site
+11,Company_011,Retail,Giza,2007,Small,Remote
+12,Company_012,Construction,Mansoura,2004,Large,On-site
+13,Company_013,Education,Alexandria,2003,Medium,On-site
+14,Company_014,Telecommunications,Cairo,1992,Small,Hybrid
+15,Company_015,Education,Mansoura,2020,Medium,On-site
+16,Company_016,Telecommunications,Mansoura,1979,Small,On-site
+17,Company_017,Retail,Giza,1991,Large,Hybrid
+18,Company_018,Banking & Finance,Cairo,1980,Medium,Hybrid
+19,Company_019,Telecommunications,Alexandria,1990,Medium,On-site
+20,Company_020,Manufacturing,Cairo,2020,Small,On-site
+21,Company_021,Retail,Cairo,1992,Medium,Hybrid
+22,Company_022,Healthcare,Cairo,2017,Medium,Remote
+23,Company_023,Banking & Finance,Assiut,1998,Large,Hybrid
+24,Company_024,Construction,Alexandria,2007,Medium,On-site
+25,Company_025,Telecommunications,Alexandria,1996,Medium,On-site
+26,Company_026,Education,Assiut,1987,Small,On-site
+27,Company_027,Manufacturing,Giza,2010,Small,On-site
+28,Company_028,Telecommunications,Alexandria,2020,Medium,Hybrid
+29,Company_029,Retail,Cairo,1987,Medium,On-site
+30,Company_030,Manufacturing,Cairo,2011,Small,Hybrid
+31,Company_031,Manufacturing,Alexandria,1987,Large,Hybrid
+32,Company_032,Banking & Finance,Giza,2008,Large,Hybrid
+33,Company_033,Technology,Alexandria,2012,Small,On-site
+34,Company_034,Retail,Assiut,1996,Medium,Hybrid
+35,Company_035,Construction,Alexandria,2009,Small,Hybrid
+36,Company_036,Technology,Alexandria,1987,Medium,Hybrid
+37,Company_037,Telecommunications,Alexandria,1978,Small,On-site
+38,Company_038,Telecommunications,Cairo,1979,Medium,On-site
+39,Company_039,Healthcare,Cairo,1996,Medium,Remote
+40,Company_040,Education,Giza,2017,Medium,On-site
+41,Company_041,Banking & Finance,Cairo,1980,Small,On-site
+42,Company_042,Telecommunications,Giza,1996,Large,On-site
+43,Company_043,Education,Mansoura,2008,Small,Hybrid
+44,Company_044,Healthcare,Cairo,1984,Small,Remote
+45,Company_045,Technology,Cairo,2008,Medium,On-site
+46,Company_046,Construction,Cairo,1989,Small,Remote
+47,Company_047,Manufacturing,Cairo,2013,Large,On-site
+48,Company_048,Construction,Alexandria,2002,Large,Hybrid
+49,Company_049,Education,Alexandria,2000,Small,Hybrid
+50,Company_050,Telecommunications,Assiut,1983,Large,On-site
+51,Company_051,Telecommunications,Alexandria,1996,Small,On-site
+52,Company_052,Banking & Finance,Giza,2015,Medium,On-site
+53,Company_053,Healthcare,Mansoura,1975,Small,Remote
+54,Company_054,Manufacturing,Cairo,2010,Large,Hybrid
+55,Company_055,Manufacturing,Cairo,1998,Small,Remote
+56,Company_056,Technology,Cairo,2008,Small,Hybrid
+57,Company_057,Retail,Assiut,2006,Medium,On-site
+58,Company_058,Banking & Finance,Giza,1995,Large,Hybrid
+59,Company_059,Education,Cairo,1989,Large,On-site
+60,Company_060,Education,Giza,2004,Medium,On-site
