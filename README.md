@@ -24,4 +24,4 @@ Hasil dari analisis SQL ini memberikan dampak strategis bagi operasional HR dan 
 - Keadilan Kompensasi (Pay Equity): Audit gaji berbasis job level dan performance rating membantu perusahaan memastikan struktur penggajian yang kompetitif, transparan, dan adil untuk mengurangi ketidakpuasan internal.
 
 5. Tools
-Adapun alat/software yang dipakai dalam proyek ini adalah SQL sebagai bahasa pemrogramannya dan dijalankan di platform data BigQuery.
+Adapun alat/software yang dipakai dalam proyek ini adalah SQL sebagai bahasa pemrogramannya dan dijalankan di platform data BigQuery serta Power BI
